@@ -1,0 +1,12 @@
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\bin\Debug\net5.0\BookShop.Entities.deps.json
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\bin\Debug\net5.0\BookShop.Entities.dll
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\bin\Debug\net5.0\ref\BookShop.Entities.dll
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\bin\Debug\net5.0\BookShop.Entities.pdb
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.AssemblyInfo.cs
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.dll
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\ref\BookShop.Entities.dll
+C:\Users\Omer\source\repos\BookShop\BookShop.Entities\obj\Debug\net5.0\BookShop.Entities.pdb
